@@ -14,7 +14,7 @@ public class DashBoardPage {
 		this.driver=driver;
 	}
 	
-	//logout click
+	//logout click on
 	public void clickOnLogout()
 	{
 		driver.findElement(logoutLocator).click();
